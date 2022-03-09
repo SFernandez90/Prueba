@@ -11,8 +11,7 @@ public class Prueba {
 		
 		switch(ingredientePrincipal){
 			case "tomate":				
-				logger.log(Level.INFO, "picar");
-				logger.log(Level.INFO, "picar");
+				logger.log(Level.INFO, "picar");				
 				break;
 			case "huevo":
 				logger.log(Level.INFO, "freir");
